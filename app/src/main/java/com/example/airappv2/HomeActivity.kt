@@ -14,7 +14,7 @@ class HomeActivity : AppCompatActivity() {
 
 
         temperatura.setOnClickListener {
-            val intent = Intent(this,MainActivity::class.java)
+            val intent = Intent(this,DeviceSelect1::class.java)
             startActivity(intent)
         }
 

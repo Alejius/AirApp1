@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">AirApp V2</string>
     <string name="ventilador">ventilador</string>
+    <string name="hola">Hola</string>
+    <string name="mi_hogar">Mi Hogar</string>
+    <string name="pepe">Pepe</string>
 </resources>
